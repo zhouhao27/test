@@ -9,3 +9,6 @@ This is the third line.
 New feature.
 
 This is the third line.
+
+This is the fourth line.
+
